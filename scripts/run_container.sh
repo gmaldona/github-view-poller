@@ -1,5 +1,5 @@
 #! /bin/bash
 
-docker stop crypto-app
-docker rm crypto-app
-docker run -it --name crypto-app crypto-app
+docker stop github-view-app
+docker rm github-view-app
+docker run -it --name github-view-app github-view-app

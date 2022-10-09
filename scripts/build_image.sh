@@ -5,4 +5,4 @@ then
   printf "Please run script from project root directory."
 fi
 
-docker build -t crypto-app .
+docker build -t github-view-app .
